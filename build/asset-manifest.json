@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcfa5aef.css",
+    "main.js": "/static/js/main.be29d474.js",
+    "static/media/Lora-Italic-VariableFont_wght.ttf": "/static/media/Lora-Italic-VariableFont_wght.731176b1f393de411b4f.ttf",
+    "static/media/Lora-VariableFont_wght.ttf": "/static/media/Lora-VariableFont_wght.08d5a3eb917fa40a7168.ttf",
+    "index.html": "/index.html",
+    "main.dcfa5aef.css.map": "/static/css/main.dcfa5aef.css.map",
+    "main.be29d474.js.map": "/static/js/main.be29d474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcfa5aef.css",
+    "static/js/main.be29d474.js"
+  ]
+}
